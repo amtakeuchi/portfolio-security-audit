@@ -133,4 +133,4 @@ Zero real vulnerabilities found. All alerts were informational or false positive
 
 ## Blog Post
 
-Full write-up with the story behind the audit: [securi-tee.com/blog](https://securi-tee.com/blog)
+Full write-up with the story behind the audit: [I Security-Audited My Own Portfolio Site](https://www.securi-tee.com/blog/I_Security-Audited_My_Own_Portfolio_Site)
